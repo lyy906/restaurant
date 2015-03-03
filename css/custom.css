@@ -4,3 +4,12 @@ font-weight: 500;
 line-height: 1.1;
 color: inherit;
 }
+
+p {
+font-family: cursive;
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
