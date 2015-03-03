@@ -14,3 +14,28 @@ display: block;
 -webkit-margin-start: 0px;
 -webkit-margin-end: 0px;
 }
+
+.navbar-default {
+background-color: #FFDEAD;
+border-color: #e7e7e7;
+}
+
+hr {
+margin-top: 20px;
+margin-bottom: 20px;
+border: 0;
+border-top: 3px solid;
+}
+
+.navbar {
+position: relative;
+min-height: 50px;
+margin-bottom: 20px;
+/* border: solid transparent; */
+}
+
+.navbar-default .navbar-nav>li>a {
+color: #992443;
+font-weight: bolder;
+font-size: large;
+}
