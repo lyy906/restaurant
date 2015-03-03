@@ -27,6 +27,10 @@ border: 0;
 border-top: 3px solid;
 }
 
+#story{
+	background-color: red;
+}
+
 .navbar {
 position: relative;
 min-height: 50px;
