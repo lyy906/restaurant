@@ -16,7 +16,7 @@
     "@link-color": "@brand-primary",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "underline",
-    "@font-family-sans-serif": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "@font-family-sans-serif": "Fantasy, cursive, cursive, sans-serif",
     "@font-family-serif": "Fantasy,cursive,serif",
     "@font-family-monospace": "Menlo, Monaco, Consolas, \"Courier New\", monospace",
     "@font-family-base": "@font-family-sans-serif",
@@ -425,5 +425,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=b61f5517910a7d0142c7"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=459c51cec45c985c3bbe"
 }
